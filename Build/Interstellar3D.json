@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "RealWorld3D",
+"productVersion": "0.1",
+"dataUrl": "Interstellar3D.data.unityweb",
+"wasmCodeUrl": "Interstellar3D.wasm.code.unityweb",
+"wasmFrameworkUrl": "Interstellar3D.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.6f1"
+}
